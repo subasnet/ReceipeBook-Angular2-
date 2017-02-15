@@ -1,0 +1,1 @@
+export { ReceipesComponent } from './receipes.component';
